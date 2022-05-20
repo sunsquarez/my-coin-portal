@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+## Demo
+Web app connected to the smart contract:<br>
+https://coin-dapp-demo.vercel.app/
